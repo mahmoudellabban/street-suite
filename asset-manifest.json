@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/street-suite/static/css/main.3af60f9e.css",
+    "main.js": "/street-suite/static/js/main.e7eb3cc5.js",
+    "static/media/logo.png": "/street-suite/static/media/logo.5e3fe488df9951507a67.png",
+    "index.html": "/street-suite/index.html",
+    "main.3af60f9e.css.map": "/street-suite/static/css/main.3af60f9e.css.map",
+    "main.e7eb3cc5.js.map": "/street-suite/static/js/main.e7eb3cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af60f9e.css",
+    "static/js/main.e7eb3cc5.js"
+  ]
+}
